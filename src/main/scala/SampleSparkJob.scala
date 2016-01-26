@@ -1,8 +1,5 @@
 import org.apache.spark.{SparkContext, SparkConf}
 
-/**
-  * Created by cbradford on 1/26/16.
-  */
 class SampleSparkJob {
   def main(args: Array[String]) {
     // Bootstrap Spark
